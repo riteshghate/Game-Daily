@@ -1,0 +1,23 @@
+.container {
+    background-color: coral;
+    width: 150px;
+    height: 200px;
+}
+
+.sub1 {
+    background-color: cornflowerblue;
+    width: 150px;
+    height: 50px;
+}
+
+.inner1 {
+    background-color: crimson;
+    width: 150px;
+    height: 25px;
+}
+
+.sub2 {
+    background-color: darkblue;
+    width: 150px;
+    height: 50px;
+}

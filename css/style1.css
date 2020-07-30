@@ -1,0 +1,131 @@
+body {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    ;
+}
+
+.slim-container {
+
+    background-color: white;
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+
+.menu-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+}
+
+
+.home {
+    font-size: large;
+    margin-left: 250px;
+    margin-right: 25px;
+}
+
+.screen {
+    font-size: large;
+    margin-right: 25px;
+}
+
+.title {
+    font-size: large;
+    margin-right: 25px;
+}
+
+.news {
+    font-size: large;
+    margin-right: 25px;
+}
+.text-container1 {
+    background-color: white;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 150px;
+}
+
+
+.image1 {
+    float: right;
+    position: relative;
+    bottom: 140px;
+    width: 400px;
+    height: 250px;
+}
+
+.text-right {
+    margin-right: 450px;
+}
+
+.text-container2 {
+    margin-top: 200px;
+    background-color: white;
+    margin-top: 0px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 120px;
+}
+.image2 {
+    float: right;
+    position: relative;
+    bottom: 170px;
+    width: 400px;
+    height: 250px;
+}
+
+.text-container3{
+    margin-top: 200px;
+    background-color: white;
+    margin-top: 0px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 120px;
+}  
+
+.image3{
+    float: right;
+    position: relative;
+    bottom: 170px;
+    width: 400px;
+    height: 250px;
+}
+
+.text-container4{
+    margin-top: 200px;
+    background-color: white;
+    margin-top: 0px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 150px;
+}
+.image4{
+    float: right;
+    position: relative;
+    bottom: 140px;
+    width: 400px;
+    height: 250px;
+}
+.footer-container{
+    margin-left: 250px;
+    margin-right: 250px;
+   
+}
+.footer{
+    background-color: black;
+
+}
+.list{
+    float: right;
+    color: white;
+    width: 35%;
+    list-style-type: none;
+}
+   
+.footimage{
+    float: left;
+}
